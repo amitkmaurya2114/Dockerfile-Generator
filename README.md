@@ -12,6 +12,9 @@ A GenAI powered tool that generates optimized Dockerfiles based on programming l
    # For Linux
    curl -fsSL https://ollama.com/install.sh | sh
 
+   #For Windows
+   https://ollama.com/download/windows
+   
    # For MacOS
    brew install ollama
    ```
