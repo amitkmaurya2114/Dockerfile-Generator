@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐳 Dockerfile Generator
 
 A GenAI powered tool that generates optimized Dockerfiles based on programming language input. This project uses Ollama with the Llama3 model to create Dockerfiles following best practices.
@@ -64,3 +65,6 @@ Enter programming language: python
 - Make sure Ollama service is running before executing the script.
 - Ensure the correct model is downloaded.
 - Adapt best practices for other programming languages as needed.
+=======
+# -Dockerfile-Generator
+>>>>>>> fc7921c8e8f5ba06e96f4201ad3b435a2a99d04c
